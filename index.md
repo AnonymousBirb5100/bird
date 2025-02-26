@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
+<html>
 <body bgcolor="black">
     <h1 style="color: skyblue; font-size: 50px; font-family: Georgia;">
         Welcome to the Bird Hub!
